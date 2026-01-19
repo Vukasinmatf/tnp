@@ -89,6 +89,19 @@ table th {
     background-color: #e6eef7;
 }
 
+.predmeri {
+display: flex;
+    gap: 30px;
+    align-items: center;
+
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+
+
 /* FAKULTET – KARTICA */
 .faculty {
     display: flex;
