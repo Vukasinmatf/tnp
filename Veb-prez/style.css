@@ -150,6 +150,10 @@ flex-direction: column;
     box-shadow: 0 6px 15px rgb(0, 0, 0);
 }
 
+.teksti{
+    color: #000000;
+}
+
 form {
     background-color: white;
     padding: 30px;
