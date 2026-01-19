@@ -137,6 +137,18 @@ display: flex;
     justify-content: center;
 }
 
+.infootnp {
+display: flex;
+    gap: 30px;
+    align-items: center;
+
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+
 form {
     background-color: white;
     padding: 30px;
